@@ -1,0 +1,14 @@
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\bin\Debug\net8.0\SelectQuoteExercise.exe
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\bin\Debug\net8.0\SelectQuoteExercise.deps.json
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\bin\Debug\net8.0\SelectQuoteExercise.runtimeconfig.json
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\bin\Debug\net8.0\SelectQuoteExercise.dll
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\bin\Debug\net8.0\SelectQuoteExercise.pdb
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\SelectQuoteExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\SelectQuoteExercise.AssemblyInfoInputs.cache
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\SelectQuoteExercise.AssemblyInfo.cs
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\SelectQuoteExercise.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\SelectQuoteExercise.dll
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\refint\SelectQuoteExercise.dll
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\SelectQuoteExercise.pdb
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\SelectQuoteExercise.genruntimeconfig.cache
+C:\Users\Bernardo\source\repos\SelectQuoteExercise\SelectQuoteExercise\obj\Debug\net8.0\ref\SelectQuoteExercise.dll
