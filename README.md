@@ -1,4 +1,3 @@
-# select-quote-code-exercise
  # Select Quote Exercise
  
  ## Task 2 - Write C# logic to generate Receivable table
